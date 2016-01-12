@@ -1,16 +1,3 @@
-img {
+#letter {
   display: none;
-  height: 300px;
-  width: auto;
-}
-
-/*img {
-  display: none;
-  height: 300px;
-  width: auto;
-}*/
-
-.container div {
-  margin-left: auto;
-  margin-right: auto;
 }
